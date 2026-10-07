@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <footer>
+        <footer className="font-mono">
             <nav>
                 <p>© {new Date().getFullYear()} Gabriel Angioleto</p>
                 <a

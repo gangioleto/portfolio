@@ -1,3 +1,3 @@
 export default function Projetos() {
-  return <h1 className="text-6xl text-red-500">Projetos</h1>;
+  return <h1 className="text-6xl text-accent">Projetos</h1>;
 }
